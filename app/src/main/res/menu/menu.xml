@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/red_Color"
+        android:title="Red" />
+    <item
+        android:id="@+id/green_Color"
+        android:title="Green" />
+    <item
+        android:id="@+id/blue_Color"
+        android:title="Blue" />
+    <item
+        android:id="@+id/pink_Color"
+        android:title="Pink" />
+    <item
+        android:id="@+id/gray_Color"
+        android:title="Gray" />
+
+</menu>
